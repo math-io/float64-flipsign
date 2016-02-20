@@ -1,6 +1,6 @@
 {
   "name": "math-float64-flipsign",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Returns a double-precision floating-point number with the magnitude of x and the sign of x*y.",
   "author": {
     "name": "Athan Reines",
